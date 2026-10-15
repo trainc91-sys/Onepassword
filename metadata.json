@@ -1,0 +1,6 @@
+{
+  "name": "Agribank One Password - Quản Lý Mật Khẩu Nội Bộ",
+  "description": "Hệ thống quản lý tài khoản và mật khẩu tập trung thương hiệu Agribank, chuẩn an toàn thông tin ISO/IEC 27001, hoạt động 100% Offline mạng nội bộ, mã hóa AES-256 đầu cuối, khóa/mở mật khẩu hàng loạt cho file Office và dọn dẹp mật khẩu trình duyệt an toàn.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
